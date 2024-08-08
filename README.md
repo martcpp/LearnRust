@@ -24,7 +24,7 @@ h1 {
 h2 {
     margin-top: 1em;
     border-bottom: 10px solid;
-    color: purple;
+    color: pink;
     padding-bottom: 0.2em;
 }
 
