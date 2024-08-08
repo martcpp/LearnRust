@@ -1,3 +1,48 @@
+<style>
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Link Styling */
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Header Styling */
+
+
+h1 {
+    border-bottom: 100px solid #red;
+    padding-bottom: 0.3em;
+    color: purple;
+}
+
+h2 {
+    margin-top: 1em;
+    border-bottom: 10px solid;
+    color: purple;
+    padding-bottom: 0.2em;
+}
+
+h3 {
+    margin-top: 0.5em;
+}
+
+/* List Styling */
+ul {
+    list-style-type: disc;
+    padding-left: 1.5em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+</style>
+
 # List of Resources to learn Rust - Roadmap From Beginner to Advanced Level
 
 a curated collection of materials designed to assist learners at various stages of their journey with the Rust.
